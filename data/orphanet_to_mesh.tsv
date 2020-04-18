@@ -1,0 +1,790 @@
+ORPHANET_ID	ORPHANET_NAME	MESH_ID
+58	Alexander disease	D038261
+61	Alpha-mannosidosis	D008363
+93	Aspartylglucosaminuria	D054880
+118	Beta-mannosidosis	D044905
+141	Canavan disease	D017825
+166078	Von Willebrand disease type 1	D056725
+213	Cystinosis	D003554
+333	Farber disease	D055577
+166081	Von Willebrand disease type 2	D056728
+349	Fucosidosis	D005645
+365	Glycogen storage disease due to acid maltase deficiency	D006009
+368	Glycogen storage disease due to muscle glycogen phosphorylase deficiency	D006012
+166096	Von Willebrand disease type 3	D056729
+447	Paroxysmal nocturnal hemoglobinuria	D006457
+535	Rare cutaneous lupus erythematosus	D008178
+583	Mucopolysaccharidosis type 6	D009087
+166282	Familial sick sinus syndrome	D012804
+166291	Dirofilariasis	D004184
+2912	Poliomyelitis	D011051
+796	Sandhoff disease	D012497
+461	Recessive X-linked ichthyosis	D016114
+584	Mucopolysaccharidosis type 7	D016538
+881	Turner syndrome	D014424
+95	Friedreich ataxia	D005621
+848	Beta-thalassemia	D017086
+846	Alpha-thalassemia	D017085
+586	Cystic fibrosis	D003550
+261	Emery-Dreifuss muscular dystrophy	D020389
+550	MELAS	D017241
+480	Kearns-Sayre syndrome	D007625
+551	MERRF	D017243
+607	Nemaline myopathy	D017696
+163892	Limbic encephalitis	D020363
+324	Fabry disease	D000795
+778	Rett syndrome	D015518
+72	Angelman syndrome	D017204
+307	Juvenile myoclonic epilepsy	D020190
+892	Von Hippel-Lindau disease	D006623
+731	Autosomal recessive polycystic kidney disease	D017044
+138	CHARGE syndrome	D058747
+558	Marfan syndrome	D008382
+803	Amyotrophic lateral sclerosis	D000690
+100	Ataxia-telangiectasia	D001260
+733	Familial adenomatous polyposis	D011125
+399	Huntington disease	D006816
+501	Lafora disease	D020192
+870	Down syndrome	D004314
+512	Metachromatic leukodystrophy	D007966
+567	22q11.2 deletion syndrome	D058165
+232	Sickle cell anemia	D000755
+536	Systemic lupus erythematosus	D008180
+534	Oculocerebrorenal syndrome of Lowe	D009800
+790	Retinoblastoma	D012175
+652	Multiple endocrine neoplasia type 1	D018761
+908	Fragile X syndrome	D005600
+3099	Rheumatic fever	D012213
+739	Prader-Willi syndrome	D011218
+580	Mucopolysaccharidosis type 2	D016532
+579	Mucopolysaccharidosis type 1	D008059
+905	Wilson disease	D006527
+906	Wiskott-Aldrich syndrome	D014923
+904	Williams syndrome	D018980
+280	Wolf-Hirschhorn syndrome	D054877
+15	Achondroplasia	D000130
+783	Rubinstein-Taybi syndrome	D012415
+664	Ornithine transcarbamylase deficiency	D020163
+436	Hypophosphatasia	D007014
+636	Neurofibromatosis type 1	D009456
+379	Chronic granulomatous disease	D006105
+163699	Alveolar soft tissue sarcoma	D018234
+637	Neurofibromatosis type 2	D009464
+637	Neurofibromatosis type 2	D016518
+181	X-linked hypohidrotic ectodermal dysplasia	D053358
+337	Fibrodysplasia ossificans progressiva	D009221
+648	Noonan syndrome	D009634
+281	Monosomy 5p	D003410
+214	Cystinuria	D003555
+510	Lesch-Nyhan syndrome	D007926
+524	Li-Fraumeni syndrome	D016864
+60	Alpha-1-antitrypsin deficiency	D019896
+682	Hyperkalemic periodic paralysis	D020513
+673	Malaria	D008288
+681	Hypokalemic periodic paralysis	D020514
+107	BOR syndrome	D019280
+2869	Peutz-Jeghers syndrome	D010580
+893	WAGR syndrome	D017624
+912	Zellweger syndrome	D015211
+50	Aicardi syndrome	D058540
+14	Abetalipoproteinemia	D000012
+52	Alagille syndrome	D016738
+167	Chédiak-Higashi syndrome	D002609
+205	Crigler-Najjar syndrome	D003414
+201	Cowden syndrome	D006223
+192	Coffin-Lowry syndrome	D038921
+2442	X-linked lymphoproliferative disease	D008232
+562	McCune-Albright syndrome	D005359
+289	Ellis Van Creveld syndrome	D004613
+1247	Schistosomiasis	D012552
+112	Bartter syndrome	D001477
+116	Beckwith-Wiedemann syndrome	D001506
+87	Apert syndrome	D000168
+313	Lamellar ichthyosis	D017490
+55	Oculocutaneous albinism	D016115
+308	Unverricht-Lundborg disease	D020194
+199	Cornelia de Lange syndrome	D003635
+2162	Holoprosencephaly	D016142
+218	Darier disease	D007644
+168966	Composite lymphoma	D058617
+8	47,XYY syndrome	D014997
+168956	Hypereosinophilic syndrome	D017681
+773	Refsum disease	D012035
+352	Galactosemia	D005693
+464	Incontinentia pigmenti	D007184
+44	Neonatal adrenoleukodystrophy	D018901
+56	Alkaptonuria	D000474
+963	Acromegaly	D000172
+29	Mevalonic aciduria	D054078
+2614	Nail-patella syndrome	D009261
+819	Smith-Magenis syndrome	D058496
+1452	Cleidocranial dysplasia	D002973
+168778	Rare pervasive developmental disorder	D002659
+1334	Chronic mucocutaneous candidiasis	D002178
+124	Blackfan-Diamond anemia	D029503
+125	Bloom syndrome	D001816
+90	Argininemia	D020162
+1775	Dyskeratosis congenita	D019871
+1764	Familial dysautonomia	D004402
+167635	Scleromyxedema	D053718
+765	Pyruvate dehydrogenase deficiency	D015325
+148	Multiple carboxylase deficiency	D009100
+23	Argininosuccinic aciduria	D056807
+2248	Hypoplastic left heart syndrome	D018636
+2116	Hartnup disease	D006250
+167848	Rare cardiomyopathy	D009202
+374	Goldenhar syndrome	D006053
+1915	Fetal alcohol syndrome	D005310
+1885	Isolated ectopia lentis	D004479
+1851	Multicystic dysplastic kidney	D021782
+635	Neuroblastoma	D009447
+606	Proximal myotonic myopathy	D020967
+2970	Prune belly syndrome	D011535
+744	Proteus syndrome	D016715
+290	Congenital rubella syndrome	D012410
+3071	Costello syndrome	D056685
+763	Pycnodysostosis	D058631
+2982	46,XX disorder of sex development	D058489
+469	Hereditary fructose intolerance	D005633
+2308	Jacobsen syndrome	D054868
+180226	Embryonal carcinoma	D018236
+502	Trichorhinophalangeal syndrome type 2	D015826
+506	Leigh syndrome	D007888
+2373	Congenital laryngomalacia	D055092
+2377	Laurence-Moon syndrome	D007849
+180275	Paget disease of the nipple	D010144
+587	Muir-Torre syndrome	D055653
+570	Moebius syndrome	D020331
+1505	Short rib-polydactyly syndrome	D012779
+180261	Phyllodes tumor of the breast	D003557
+716	Phenylketonuria	D010661
+63	Alport syndrome	D009394
+84	Fanconi anemia	D005199
+69	Amyloidosis	D000686
+191	Cockayne syndrome	D003057
+166	Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy	D002607
+813	Silver-Russell syndrome	D056730
+816	Sjögren-Larsson syndrome	D016111
+821	Sotos syndrome	D058495
+3205	Sturge-Weber syndrome	D013341
+858	Congenital toxoplasmosis	D014125
+909	Cerebrotendinous xanthomatosis	D019294
+117	Behçet disease	D001528
+732	Polymyositis	D017285
+178536	Primary cutaneous marginal zone B-cell lymphoma	D018442
+221	Dermatomyositis	D003882
+204	Sporadic Creutzfeldt-Jakob disease	D007562
+178517	Localized pagetoid reticulosis	D056267
+581	Mucopolysaccharidosis type 3	D009084
+666	Osteogenesis imperfecta	D010013
+178029	Central diabetes insipidus	D020790
+423	Malignant hyperthermia of anesthesia	D008305
+418	Congenital adrenal hyperplasia	D000312
+216	Neuronal ceroid lipofuscinosis	D009472
+355	Gaucher disease	D005776
+388	Hirschsprung disease	D006627
+354	GM1 gangliosidosis	D016537
+178320	Acute lung injury	D055371
+270	Oculopharyngeal muscular dystrophy	D039141
+589	Myasthenia gravis	D009157
+805	Tuberous sclerosis complex	D014402
+886	Usher syndrome	D052245
+3440	Waardenburg syndrome	D014849
+702	Pelizaeus-Merzbacher disease	D020371
+738	Porphyria	D011164
+791	Retinitis pigmentosa	D012174
+183	Eosinophilic granulomatosis with polyangiitis	D015267
+1164	Allergic bronchopulmonary aspergillosis	D001229
+509	Leptospirosis	D007922
+171901	Primary cutaneous T-cell lymphoma	D016410
+249	Fibrous dysplasia of bone	D005357
+187	Citrullinemia	D020159
+442	Congenital hypothyroidism	D003409
+43	X-linked adrenoleukodystrophy	D000326
+727	Microscopic polyangiitis	D055953
+900	Granulomatosis with polyangiitis	D014890
+863	Trichinellosis	D014235
+1163	Aspergillosis	D001228
+171676	Periventricular leukomalacia	D007969
+511	Maple syrup urine disease	D008375
+2368	Gastroschisis	D020139
+2913	Non-syndromic polydactyly	D017689
+797	Sarcoidosis	D012507
+92	Juvenile idiopathic arthritis	D001171
+1199	Esophageal atresia	D004933
+1304	Brucellosis	D002006
+173	Cholera	D002771
+3303	Tetralogy of Fallot	D013771
+1209	Tricuspid atresia	D018785
+199647	Isolated encephalocele	D004677
+1478	Interatrial communication	D006344
+1431	Paroxysmal dyskinesia	D002819
+234	Dubin-Johnson syndrome	D007566
+3287	Takayasu arteritis	D013625
+2800	Extramammary Paget disease	D010145
+199323	Endophthalmitis	D009877
+2665	Congenital mesoblastic nephroma	D018201
+3463	Wolfram syndrome	D014929
+1549	Cryptosporidiosis	D003457
+549	Legionellosis	D007876
+549	Legionellosis	D007877
+356	Gerstmann-Straussler-Scheinker syndrome	D016098
+466	Fatal familial insomnia	D034062
+3452	Whipple disease	D008061
+3002	Immune thrombocytopenic purpura	D016553
+2357	Bronchogenic cyst	D001994
+274	Bernard-Soulier syndrome	D001606
+1531	Craniosynostosis	D003398
+1675	Dihydropyrimidine dehydrogenase deficiency	D054067
+199244	Nelson syndrome	D009347
+780	Rhabdomyosarcoma	D012208
+2467	Systemic mastocytosis	D034721
+845	Tay-Sachs disease	D013661
+3299	Tetanus	D013742
+770	Rabies	D011818
+582	Mucopolysaccharidosis type 4	D009085
+397	Giant cell arteritis	D013700
+1656	Dermatitis herpetiformis	D003874
+131	Budd-Chiari syndrome	D006502
+646	Niemann-Pick disease type C	D052556
+654	Nephroblastoma	D009396
+1489	Whooping cough	D014917
+2764	Osteochondritis dissecans	D010008
+3389	Tuberculosis	D014376
+1679	Diphtheria	D004165
+1267	Botulism	D001906
+2897	Pityriasis rubra pilaris	D010916
+2103	Guillain-Barré syndrome	D020275
+183669	Agammaglobulinemia	D000361
+449	Hepatoblastoma	D018197
+2177	Hydranencephaly	D006832
+533	Listeriosis	D008088
+683	Progressive supranuclear palsy	D013494
+183660	Severe combined immunodeficiency	D016511
+643	Giant axonal neuropathy	D056768
+140	Campomelic dysplasia	D055036
+638	Neurofibromatosis-Noonan syndrome	D009456
+526	Liddle syndrome	D056929
+342	Familial Mediterranean fever	D010505
+180	Choroideremia	D015794
+754	Androgen insensitivity syndrome	D013734
+243	46,XX gonadal dysgenesis	D023961
+136	CADASIL	D046589
+182127	Extragonadal germinoma	D018237
+182095	Interstitial lung disease	D017563
+182098	Pneumoconiosis	D011009
+184	Cherubism	D002636
+1047	Sideroblastic anemia	D000756
+182067	Glial tumor	D005910
+1949	Benign familial neonatal epilepsy	D020936
+902	Werner syndrome	D014898
+181412	Adrenogenital syndrome	D047808
+500	Noonan syndrome with multiple lentigines	D044542
+507	Leishmaniasis	D007896
+548	Leprosy	D007918
+233	Duane retraction syndrome	D004370
+657	Congenital isolated hyperinsulinism	D044903
+2495	Meningioma	D008579
+2014	Cleft palate	D002972
+358	Gitelman syndrome	D053579
+2052	Fraser syndrome	D058497
+111	Barth syndrome	D056889
+10	48,XXYY syndrome	D007713
+133	Chronic beryllium disease	D001607
+624	Familial multiple nevi flammei	D019339
+3375	Trisomy X	D014314
+3305	Tetraploidy	D057891
+3376	Triploidy	D057885
+945	Acalvaria	D009436
+946	Acrocephalosyndactyly	D000168
+955	Acroosteolysis dominant type	D031845
+1077	Dental ankylosis	D020254
+1041	Hydrops fetalis	D015160
+64	Alström syndrome	D056769
+1160	Chylous ascites	D002915
+137817	Arachnoiditis	D001100
+137839	Lemierre syndrome	D057831
+1219	Aurocephalosyndactyly	D000168
+137914	Choanal atresia	D002754
+190	Coats disease	D058456
+157823	Klüver-Bucy syndrome	D020232
+157791	Epithelioid hemangioendothelioma	D018323
+1328	Camurati-Engelmann disease	D003966
+156152	Anti-neutrophil cytoplasmic antibody-associated vasculitis	D056648
+155899	Mandibulofacial dysostosis	D008342
+156207	Macroglossia	D008260
+1335	Pentalogy of Cantrell	D058502
+726	Alpers-Huttenlocher syndrome	D002549
+1653	Dentin dysplasia	D003805
+140896	Acute respiratory coronavirus infection	D045169
+140989	Primary angiitis of the central nervous system	D020293
+742	Prolidase deficiency	D056732
+140471	Hereditary sensory and autonomic neuropathy	D009477
+2138	46,XX ovotesticular disorder of sex development	D050090
+158061	Macrophage activation syndrome	D055501
+157987	Non-Langerhans cell histiocytosis	D015616
+158011	Necrobiotic xanthogranuloma	D058252
+2092	Focal dermal hypoplasia	D005489
+158000	Juvenile xanthogranuloma	D014972
+157843	Trigeminal autonomic cephalalgia	D051303
+157835	Paroxysmal hemicrania	D051302
+157850	Pantothenate kinase-associated neurodegeneration	D006211
+2028	Juvenile hyaline fibromatosis	D057770
+247709	Multiple endocrine neoplasia type 2B	D018814
+247698	Multiple endocrine neoplasia type 2A	D018813
+248095	Primary hypertrophic osteoarthropathy	D010004
+244242	HELLP syndrome	D017359
+296	Ollier disease	D004687
+2485	Melorheostosis	D008557
+2483	Melkersson-Rosenthal syndrome	D008556
+247203	Collecting duct carcinoma	D002292
+672	Pallister-Hall syndrome	D054975
+455	Superficial epidermolytic ichthyosis	D053560
+2309	Pachyonychia congenita	D053549
+2807	Papilloma of choroid plexus	D020288
+678	Papillon-Lefèvre syndrome	D010214
+2573	Moyamoya disease	D009072
+2576	Mulibrey nanism	D050336
+1359	Carney complex	D056733
+769	Rabson-Mendenhall syndrome	D056731
+2909	Rothmund-Thomson syndrome	D011038
+2884	Piebaldism	D016116
+740	Hutchinson-Gilford progeria syndrome	D011371
+2905	POEMS syndrome	D016878
+2911	Poland syndrome	D011045
+3347	Mounier-Kühn syndrome	D014137
+3243	Sweet syndrome	D016463
+3449	Weill-Marchesani syndrome	D056846
+3193	Supravalvular aortic stenosis	D021921
+647	Nijmegen breakage syndrome	D049932
+3157	Septo-optic dysplasia spectrum	D025962
+425	Apolipoprotein A-I deficiency	D052456
+746	Mitochondrial trifunctional protein deficiency	D024741
+412	Dysbetalipoproteinemia	D006952
+820	Sneddon syndrome	D018860
+633	Laron syndrome	D046150
+478	Kallmann syndrome	D017436
+822	Hereditary spherocytosis	D013103
+910	Xeroderma pigmentosum	D014983
+206966	Mitochondrial myopathy	D017240
+206976	Periodic paralysis	D010245
+206970	Myotonic syndrome	D020967
+65	Leber congenital amaurosis	D057130
+144	Lynch syndrome	D003123
+206647	Myotonic dystrophy	D009223
+110	Bardet-Biedl syndrome	D020788
+208650	Cryopyrin-associated periodic syndrome	D056587
+2582	Myalgia-eosinophilia syndrome associated with tryptophan	D016603
+1546	Cryptococcosis	D003453
+2023	Undifferentiated pleomorphic sarcoma	D051677
+416	Primary hyperoxaluria	D006959
+3392	Tularemia	D014406
+2737	Onchocerciasis	D009855
+2737	Onchocerciasis	D015827
+3343	Toxocariasis	D014120
+2034	Filariasis	D005368
+2583	Mycetoma	D008271
+1902	Ehrlichiosis	D016873
+211266	Rare arteriovenous malformation	D001165
+35	Propionic acidemia	D056693
+2968	Leukocyte adhesion deficiency	D018370
+220	Denys-Drash syndrome	D030321
+85	Congenital dyserythropoietic anemia	D000742
+177	Rhizomelic chondrodysplasia punctata	D018902
+818	Smith-Lemli-Opitz syndrome	D019082
+209	Cutis laxa	D003483
+185	Scimitar syndrome	D012587
+3189	Congenital pulmonary valve stenosis	D011666
+213711	Endometrial stromal sarcoma	D018203
+1572	Common variable immunodeficiency	D017074
+3261	Autoimmune lymphoproliferative syndrome	D056735
+903	Von Willebrand disease	D014842
+217260	Progressive multifocal leukoencephalopathy	D007968
+767	Polyarteritis nodosa	D010488
+3162	Sézary syndrome	D012751
+217074	Rare carcinoma of pancreas	D010190
+217071	Renal cell carcinoma	D002292
+217067	Pouchitis	D019449
+2700	Noma	D009625
+3385	African trypanosomiasis	D014353
+1560	Cysticercosis	D003551
+340	Hemorrhagic fever-renal syndrome	D006480
+2552	Microsporidiosis	D016881
+1457	Aorta coarctation	D001017
+217604	Dilated cardiomyopathy	D002311
+3426	Double outlet right ventricle	D004310
+217569	Hypertrophic cardiomyopathy	D002312
+282	Frontotemporal dementia	D057180
+707	Plague	D010930
+707	Plague	D015009
+217632	Restrictive cardiomyopathy	D002313
+1070	Anisakiasis	D017129
+1467	Cogan syndrome	D055952
+2203	Hyperlysinemia	D020167
+34	Pipecolic acidemia	D018901
+221074	Marchiafava-Bignami disease	D054319
+2965	Prolactinoma	D015175
+221091	Trigeminal neuralgia	D014277
+538	Lymphangioleiomyomatosis	D018192
+223735	Lymphoma	D008223
+221117	Gerstmann syndrome	D005862
+547	Non-Hodgkin lymphoma	D008228
+883	Extragonadal teratoma	D013724
+228123	Coccidioidomycosis	D003047
+389	Langerhans cell histiocytosis	D006646
+616	Medulloblastoma	D008527
+541	Primary cutaneous CD30+ T-cell lymphoproliferative disease	D054446
+543	Burkitt lymphoma	D002051
+543	Burkitt lymphoma	D008228
+668	Osteosarcoma	D012516
+94	Astrocytoma	D001254
+360	Glioblastoma	D005909
+2030	Fibrosarcoma	D005354
+2126	Solitary fibrous tumor	D006393
+758	Pseudoxanthoma elasticum	D011561
+1501	Adrenocortical carcinoma	D018268
+2677	Neuroepithelioma	D018241
+1652	Dent disease	D057973
+3280	Syringomyelia	D013595
+223	Nephrogenic diabetes insipidus	D018500
+2781	Osteopetrosis and related disorders	D010022
+2132	Hemoglobin C disease	D006445
+288	Hereditary elliptocytosis	D004612
+441	Pure autonomic failure	D054970
+2073	Narcolepsy type 1	D009290
+809	Mixed connective tissue disease	D008947
+1309	Medullary sponge kidney	D007691
+160	Castleman disease	D005871
+347	Frasier syndrome	D052159
+1223	Balantidiasis	D001447
+3318	Essential thrombocythemia	D013920
+913	Zollinger-Ellison syndrome	D015043
+913	Zollinger-Ellison syndrome	D015408
+519	Acute myeloid leukemia	D015470
+531	Miller-Dieker syndrome	D054221
+772	Infantile Refsum disease	D052919
+823	Isolated spina bifida	D016135
+393	46,XX testicular disorder of sex development	D058531
+2404	Loiasis	D008118
+2356	Arachnoid cyst	D016080
+829	Adult-onset Still disease	D014924
+829	Adult-onset Still disease	D016706
+3096	Reye syndrome	D012202
+1183	Opsoclonus-myoclonus syndrome	D053578
+890	Hepatic veno-occlusive disease	D006504
+231	Dracunculiasis	D004320
+178	Chordoma	D002817
+248	Autosomal recessive hypohidrotic ectodermal dysplasia	D053360
+2032	Idiopathic pulmonary fibrosis	D054990
+1302	Cryptogenic organizing pneumonia	D018549
+3008	Pyruvate carboxylase deficiency	D015324
+130	Brugada syndrome	D053840
+29207	Reactive arthritis	D016918
+29073	Multiple myeloma	D009101
+30391	Isolated biliary atresia	D001656
+320	Apparent mineralocorticoid excess	D043204
+590	Congenital myasthenic syndrome	D020294
+756	Pseudohypoaldosteronism type 1	D011546
+544	Diffuse large B-cell lymphoma	D016403
+545	Follicular lymphoma	D008224
+102	Multiple system atrophy	D019578
+729	Polycythemia vera	D011087
+26790	Pseudomyxoma peritonei	D011553
+899	Walker-Warburg syndrome	D058494
+263	Limb-girdle muscular dystrophy	D049288
+781	Q fever	D011778
+302	Epidermodysplasia verruciformis	D004819
+297	Tick-borne encephalitis	D004675
+182	Chromomycosis	D002862
+76	Strongyloidiasis	D013322
+108	Babesiosis	D001404
+78	Ankylostomiasis	D000724
+78	Ankylostomiasis	D006725
+514	Acute monoblastic leukemia	D007948
+517	Acute myelomonocytic leukemia	D015479
+168	Loose anagen syndrome	D058247
+472	Isosporiasis	D021865
+504	Creeping myiasis	D007815
+401	Hymenolepiasis	D006925
+390	Histoplasmosis	D006660
+400	Cystic echinococcosis	D004443
+520	Acute promyelocytic leukemia	D015473
+826	Sporotrichosis	D013174
+879	Tungiasis	D058285
+553	Cushing syndrome	D000308
+553	Cushing syndrome	D003480
+679	Malignant atrophic papulosis	D054853
+703	Bullous pemphigoid	D010391
+488	Urachal cyst	D014496
+721	Gray platelet syndrome	D055652
+310	Reflex epilepsy	D020195
+728	Relapsing polychondritis	D011081
+1666	Dextrocardia	D003914
+247	Arrhythmogenic right ventricular cardiomyopathy	D019571
+573	Monilethrix	D056734
+122	Birt-Hogg-Dubé syndrome	D058249
+188	Systemic capillary leak syndrome	D019559
+305	Junctional epidermolysis bullosa	D016109
+764	Pyomyositis	D052880
+838	Susac syndrome	D055955
+482	Kimura disease	D000796
+31837	Pulmonary venoocclusive disease	D011668
+31740	Hypersensitivity pneumonitis	D000542
+31205	Rat-bite fever	D011906
+31154	Hypobetalipoproteinemia	D006995
+31202	Melioidosis	D008554
+31150	Tangier disease	D013631
+31153	Hypoalphalipoproteinemia	D052456
+71273	Renal nutcracker syndrome	D059228
+71211	Neuromyelitis optica	D009471
+70589	Bronchopulmonary dysplasia	D001997
+70588	Meconium aspiration syndrome	D008471
+70567	Cholangiocarcinoma	D001650
+70567	Cholangiocarcinoma	D018281
+69077	Rhabdoid tumor	D018335
+69078	Liposarcoma	D008080
+67043	Acanthamoeba keratitis	D015823
+67038	B-cell chronic lymphocytic leukemia	D015451
+66661	Mast cell sarcoma	D012515
+66646	Cutaneous mastocytosis	D034701
+66627	Pigmented villonodular synovitis	D013586
+64752	Hereditary sensory and autonomic neuropathy type 5	D000699
+64686	Tolosa-Hunt syndrome	D020333
+64722	Granulomatous mastitis	D058890
+64720	Leiomyosarcoma	D007890
+64694	Trench fever	D014205
+64692	Oroya fever	D001474
+64739	Ovarian hyperstimulation syndrome	D016471
+64734	Iridocorneal endothelial syndrome	D057129
+64741	Pulmonary blastoma	D018202
+63275	Pemphigoid gestationis	D006559
+60039	Pudendal neuralgia	D060545
+59305	Gestational trophoblastic neoplasm	D031901
+60014	Argyria	D001129
+57145	SUNCT syndrome	D050798
+56965	Progressive bulbar paralysis of childhood	D010244
+58040	Osteoblastoma	D018215
+58017	Classic hairy cell leukemia	D007943
+54595	Craniopharyngioma	D003397
+54368	Sarcocystosis	D012523
+54370	Primary membranoproliferative glomerulonephritis	D015432
+54272	Hepatocellular adenoma	D018248
+55880	Chondrosarcoma	D002813
+55881	Adamantinoma	D050398
+55655	Pneumococcal meningitis	D008586
+79213	Mucopolysaccharidosis	D009083
+79212	Mucolipidosis	D009081
+79224	Disorder of purine or pyrimidine metabolism	D011686
+79225	Sphingolipidosis	D013106
+79201	Glycogen storage disease	D006008
+79098	Sympathetic ophthalmia	D009879
+79139	Japanese encephalitis	D004672
+77293	Niemann-Pick disease type B	D052537
+77292	Niemann-Pick disease type A	D052536
+79078	IgG4-related dacryoadenitis and sialadenitis	D008882
+73263	Zygomycosis	D009091
+73263	Zygomycosis	D020096
+73260	Paracoccidioidomycosis	D010229
+73247	Eosinophilic esophagitis	D057765
+75233	Wolman disease	D015223
+75110	Myiasis	D009198
+71862	Inherited retinal disorder	D058499
+37748	Schnitzler syndrome	D019873
+37202	Interstitial cystitis	D018856
+68354	Rare sleep disorder	D012893
+68335	Rare chromosomal anomaly	D002869
+530995	Mixed phenotype acute leukemia	D015456
+35687	Erdheim-Chester disease	D031249
+35125	Epidermal nevus syndrome	D054000
+36397	Adiposis dolorosa	D000274
+36426	Stevens-Johnson syndrome	D013262
+36236	Staphylococcal scalded skin syndrome	D013206
+36204	Intestinal lymphangiectasia	D008201
+33543	Kleine-Levin syndrome	D017593
+33475	Meningococcal meningitis	D008585
+33577	Nodular non-suppurative panniculitis	D010201
+33364	Trichothiodystrophy	D054463
+33276	Kaposi sarcoma	D012514
+33226	Waldenström macroglobulinemia	D008258
+34533	Corneal dystrophy	D003317
+52688	Myelodysplastic syndrome	D009190
+52416	Mantle cell lymphoma	D020522
+53035	Caroli disease	D016767
+52759	Vasculitis	D014657
+52759	Vasculitis	D056647
+54057	Thrombotic thrombocytopenic purpura	D011697
+54028	Plummer-Vinson syndrome	D011004
+49041	IgG4-related retroperitoneal fibrosis	D012185
+49042	Dentinogenesis imperfecta	D003811
+48471	Lissencephaly	D054082
+48686	Primary effusion lymphoma	D054685
+49566	Acquired purpura fulminans	D014884
+49566	Acquired purpura fulminans	D055665
+50251	Pleural mesothelioma	D008654
+50839	Cat-scratch disease	D002372
+43116	Serotonin syndrome	D020230
+43393	Lambert-Eaton myasthenic syndrome	D015624
+44890	Gastrointestinal stromal tumor	D046152
+46724	Cerebral arteriovenous malformation	D002538
+48104	Pyoderma gangrenosum	D017511
+47612	Felty syndrome	D005258
+68364	Hemoglobinopathy	D006453
+68367	Rare inborn errors of metabolism	D008659
+68367	Rare inborn errors of metabolism	D008661
+68373	Peroxisomal disease	D018901
+68381	Neuromuscular disease	D009468
+68380	Mitochondrial disease	D028361
+90062	Acute liver failure	D017114
+90050	Retinopathy of prematurity	D012178
+90025	Non-syndromic syndactyly	D013576
+90290	CREST syndrome	D017675
+90289	Localized scleroderma	D012594
+90281	Discoid lupus erythematosus	D008179
+90186	Meige disease	D008538
+90285	Lupus erythematosus panniculitis	D015435
+88673	Hepatocellular carcinoma	D006528
+88661	Amelogenesis imperfecta	D000567
+88642	Channelopathy-associated congenital insensitivity to pain	D000699
+88642	Channelopathy-associated congenital insensitivity to pain	D009477
+86900	Interdigitating dendritic cell sarcoma	D054739
+86902	Follicular dendritic cell sarcoma	D054740
+86896	Histiocytic sarcoma	D054747
+86897	Langerhans cell sarcoma	D054752
+93276	Polyostotic fibrous dysplasia	D005359
+93277	Monostotic fibrous dysplasia	D005358
+91547	Relapsing fever	D012061
+90771	Disorder of sex development	D012734
+90647	Jervell and Lange-Nielsen syndrome	D029593
+91495	Persistent hyperplastic primary vitreous	D054514
+91546	Lyme disease	D008193
+91414	Pilomatrixoma	D018296
+79383	Lymphedema	D008209
+79389	Premature aging	D019588
+79373	Ectodermal dysplasia syndrome	D004476
+79379	Skin vascular disease	D017445
+79457	Maculopapular cutaneous mastocytosis	D014582
+79455	Cutaneous mastocytoma	D054705
+79445	Pseudopseudohypoparathyroidism	D011556
+79241	Biotinidase deficiency	D028921
+79242	Holocarboxylase synthetase deficiency	D028922
+79278	Autosomal erythropoietic protoporphyria	D046351
+79273	Hereditary coproporphyria	D046349
+79276	Acute intermittent porphyria	D017118
+79365	Rare disorder with hypertrichosis	D006983
+79358	Porokeratosis	D017499
+79354	Ichthyosis	D007057
+86839	Refractory anemia with excess blasts	D000754
+86834	Juvenile myelomonocytic leukemia	D054429
+86829	Chronic neutrophilic leukemia	D015467
+86855	Plasmacytoma	D010954
+86852	B-cell prolymphocytic leukemia	D054403
+86851	Acute leukemia of ambiguous lineage	D015456
+86850	Myeloid sarcoma	D023981
+86849	Acute basophilic leukemia	D015471
+86872	T-cell large granular lymphocyte leukemia	D054066
+86871	T-cell prolymphocytic leukemia	D015461
+86869	Lymphomatoid granulomatosis	D008230
+86864	Heavy chain disease	D006362
+86885	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	D016411
+86880	Enteropathy-associated T-cell lymphoma	D058527
+86875	Adult T-cell leukemia/lymphoma	D015459
+86879	Extranodal nasal NK/T cell lymphoma	D054391
+79665	Gardner syndrome	D005736
+83317	Scrub typhus	D012612
+83313	Boutonneuse fever	D001907
+83314	Epidemic typhus	D014438
+83311	Rocky Mountain spotted fever	D012373
+83469	Desmoplastic small round cell tumor	D058405
+83452	Complex regional pain syndrome	D020918
+83595	Colorado tick fever	D003121
+83483	La Crosse encephalitis	D004670
+83484	St. Louis encephalitis	D004674
+85138	Addison disease	D000224
+98085	46,XY disorder of sex development	D058490
+98261	Progressive myoclonic epilepsy	D020191
+98249	Ehlers-Danlos syndrome	D004535
+98292	Mastocytosis	D008415
+98274	Myeloproliferative neoplasm	D009196
+98275	Myelodysplastic/myeloproliferative disease	D054437
+97279	Insulinoma	D007340
+97275	Encephalitis	D004660
+97283	Somatostatinoma	D013005
+97282	VIPoma	D003969
+97280	Glucagonoma	D005935
+97330	Thoracic outlet syndrome	D013901
+97352	Pellagra	D010383
+97363	Unilateral multicystic dysplastic kidney	D021782
+97364	Bilateral multicystic dysplastic kidney	D021782
+96253	Cushing disease	D047748
+96321	Polyploidy	D011123
+97593	Pseudohypoparathyroidism	D011547
+95708	Rare precocious puberty	D011629
+95613	Pituitary apoplexy	D010899
+95458	Tricuspid valve prolapse	D014263
+95455	Stevens-Johnson syndrome/toxic epidermal necrolysis spectrum	D004816
+95159	Hepatoerythropoietic porphyria	D017121
+95432	Primary progressive aphasia	D018888
+94093	Neuroleptic malignant syndrome	D009459
+95854	Levocardia	D007979
+93571	Dense deposit disease	D015432
+93573	Thrombotic microangiopathy	D057049
+93442	Chondrodysplasia punctata	D002806
+93968	Meningocele	D008588
+94058	Neovascular glaucoma	D015355
+93930	Bladder exstrophy	D001746
+93928	Isolated epispadias	D004842
+99725	Pituitary gigantism	D005877
+99757	Embryonal rhabdomyosarcoma	D018233
+99756	Alveolar rhabdomyosarcoma	D018232
+99739	Rare familial disorder with hypertrophic cardiomyopathy	D024741
+98818	Landau-Kleffner syndrome	D018887
+98826	Refractory anemia	D000753
+98823	Chronic myelomonocytic leukemia	D015477
+98824	Atypical chronic myeloid leukemia	D054438
+98851	Mast cell leukemia	D007946
+98845	Classic Hodgkin lymphoma, lymphocyte-rich type	D006689
+98842	Lymphomatoid papulosis	D017731
+98841	Anaplastic large cell lymphoma	D017728
+98855	Autosomal recessive Emery-Dreifuss muscular dystrophy	D020389
+98879	Hemophilia B	D002836
+98878	Hemophilia A	D006467
+98896	Duchenne muscular dystrophy	D020388
+98892	Periventricular nodular heterotopia	D054091
+98919	Miller-Fisher syndrome	D019846
+98954	Meesmann corneal dystrophy	D053559
+99054	Valvular pulmonary stenosis	D011666
+98578	Rare disorder with ptosis	D001763
+98672	Autosomal dominant optic atrophy	D029241
+98731	Congenital arteriovenous fistula	D001164
+98715	Uveitis	D014605
+98306	Familial partial lipodystrophy	D052496
+98300	Idiopathic interstitial pneumonia	D054988
+98375	Autoimmune hemolytic anemia	D000744
+98472	Skeletal muscle disease	D009135
+98473	Muscular dystrophy	D009136
+98427	Polycythemia	D011086
+98491	Neuromuscular junction disease	D020511
+98503	Motor neuron disease	D016472
+104010	Intestinal polyposis syndrome	D044483
+104008	Short bowel syndrome	D012778
+109007	Arthrogryposis syndrome	D001176
+101330	Porphyria cutanea tarda	D017119
+101016	Romano-Ward syndrome	D029597
+100054	F12-related hereditary angioedema with normal C1Inh	D056828
+100070	Progressive non-fluent aphasia	D057178
+100067	Waterhouse-Friderichsen syndrome	D014884
+100006	ABeta amyloidosis, Dutch type	D028243
+99978	Klatskin tumor	D018285
+99967	Myxoid/round cell liposarcoma	D018208
+99927	Hydatidiform mole	D006828
+99928	Placental site trophoblastic tumor	D018245
+99915	Maligant granulosa cell tumor of the ovary	D006106
+99921	Chronic graft versus host disease	D006086
+99908	Pigeon-breeder lung disease	D001716
+99906	Farmer's lung disease	D005203
+99871	Eosinophilic granuloma	D004803
+99867	Thymoma	D013945
+99829	Yellow fever	D015004
+99828	Dengue fever	D003715
+99824	Lassa fever	D007835
+99797	Anodontia	D000848
