@@ -1,3 +1,9 @@
+## Disclaimer
+
+Some material in the UMLS Metathesaurus is from copyrighted sources of the respective copyright holders. Users of the UMLS Metathesaurus are solely responsible for compliance with any copyright, patent or trademark restrictions and are referred to the copyright, patent or trademark notices appearing in the original sources, all of which are hereby incorporated by reference.
+
+Data are Courtesy of the U.S. National Library of Medicine.
+
 ## Disease Vocabularies
 
 For each disease vocabulary in DisMaNET, a TSV file is provided with the following columns:
